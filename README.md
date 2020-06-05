@@ -15,6 +15,7 @@ _Tamperish_ attempts to recover most of the customisation abilities formerly pro
 	- `www.google.com` folder will be applied on _Google Search_ page
 	- `com` folder contents will be applied on all `com` domains
 	- Tamper files placed directly to the `Tampers` folder will be applied everywhere
+- Enable the extension in _Safari_ preferences – can be done by clicking the **On/Off** button in the app
 - Refresh the desired web page & profit. 👍
 
 ![Page style snippet example](https://i.imgur.com/5DJSXDD.png)

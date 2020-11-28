@@ -7,6 +7,14 @@ _Tamperish_ is developed to be an easy-to-use user styles & scripts injection to
 
 _Tamperish_ attempts to recover most of the customisation abilities formerly provided by _Tampermonkey_ and _Stylish_ extensions, but using a simpler, more strict injection hierarchy. 👾
 
+## Customisation examples
+
+Some examples of how can Tamperish be used for customisation are now available on GitHub, too!
+
+https://github.com/username0x0a/Tamperish-tweaks
+
+Feel free to use these as inspiration and eventually push your own contributions, too! 🙏
+
 ## How to use
 
 - Open the app
